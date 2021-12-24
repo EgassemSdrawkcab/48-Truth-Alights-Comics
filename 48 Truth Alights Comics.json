@@ -7,7 +7,7 @@
   "chapters": {
     "0": {
       "title": "48 Truth Alights Reference Sheets",
-      "volume": "",
+      "volume": "0",
       "last_updated": "1640303848",
       "groups": {
         "": [
@@ -17,7 +17,7 @@
     },
     "1": {
       "title": "Round 4 - The Early Bird (Created By Me; Not Canon)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1640303952",
       "groups": {
         "": [
@@ -27,7 +27,7 @@
     },
     "2": {
       "title": "Round 4 - The Pangs of Joy Behind (Created by Bumbleklutz; Canon)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1640304019",
       "groups": {
         "": [
@@ -37,7 +37,7 @@
     },
     "3": {
       "title": "Round 7 - Murmuration",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1640304082",
       "groups": {
         "": [
@@ -47,11 +47,21 @@
     },
     "4": {
       "title": "Round 9 - Swan Song",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1640304138",
       "groups": {
         "": [
           "https://imgur.com/a/z4HvwSm"
+        ]
+      }
+    },
+    "5": {
+      "title": "48 Truth Alights Cameos and Fanart",
+      "volume": "0",
+      "last_updated": "1640305013",
+      "groups": {
+        "": [
+          "https://imgur.com/a/4xFmWIU"
         ]
       }
     }
