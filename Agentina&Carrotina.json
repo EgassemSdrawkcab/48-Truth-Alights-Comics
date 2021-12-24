@@ -1,0 +1,29 @@
+{
+  "title": "Agentina&Carrotina",
+  "description": "test",
+  "artist": "test",
+  "author": "test",
+  "cover": "",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1640307435",
+      "groups": {
+        "": [
+          "https://imgur.com/gallery/AgurgkH"
+        ]
+      }
+    },
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1640307519",
+      "groups": {
+        "": [
+          "https://imgur.com/gallery/BBZcn3L"
+        ]
+      }
+    }
+  }
+}
